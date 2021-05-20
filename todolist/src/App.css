@@ -85,3 +85,14 @@ h2 {
   font-style: normal;
   color: grey;
 }
+.history {
+  background: #f0f5f9;
+  border-radius: 7px;
+  box-shadow: 0 1px 3px #c9d6df;
+  padding: 10px;
+  width: 240px;
+  margin: 16px;
+  float: left;
+  color: #52616b;
+  text-align: center;
+}
